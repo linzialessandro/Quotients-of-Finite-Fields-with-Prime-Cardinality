@@ -2,6 +2,8 @@
 
 This notebook provides a set of Python programs to construct, analyze, and compare Krasner quotient hyperfields obtained from finite fields $\mathbb{F}_p$ modulo a multiplicative subgroup.
 
+Find it up to date at this Google Colab [link](https://colab.research.google.com/drive/1OVraoO7NGlRIXr4NSuJZvVySy_8_yE3U?usp=sharing).
+
 ## Overview
 
 The notebook is structured into four main parts:
