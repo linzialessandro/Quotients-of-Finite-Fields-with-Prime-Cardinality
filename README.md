@@ -4,6 +4,11 @@ This notebook provides a set of Python programs to construct, analyze, and compa
 
 Find it up to date at this Google Colab [link](https://colab.research.google.com/drive/1OVraoO7NGlRIXr4NSuJZvVySy_8_yE3U?usp=sharing).
 
+
+## NEWS
+
+There is a new version of this with an optimized isomorphism check. Navigate to my repo Quotients-of-Finite-Fields-Optimized and run it with max_k==1.
+
 ## Overview
 
 The notebook is structured into four main parts:
